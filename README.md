@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @olskido
-- 👀 I’m interested in making money online
-- 🌱 I’m currently learning how to make money online for free
-- 💞️ I’m looking to collaborate on airdrops or giveaways 
-- 📫 How to reach me contact me on youuzzyumar@gmail.com
+👋 Hi, I am Olskido
 
-<!---
-olskido/olskido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a junior full stack web developer and a junior Rust and Solana developer. I love building fast, clean, and user focused applications. I learn in public and I ship fast.
+
+🔧 What I Work With
+
+React, Vite, JavaScript
+
+Rust, Solana, Anchor
+
+APIs, Crypto data tools
+
+Git, GitHub, Vercel
+
+🚀 What I am Learning
+
+Advanced Rust concepts
+
+Solana program development
+
+Smart contract patterns and security
+
+🌍 What I Am Building Now
+
+CoinView, a real time crypto tracking dashboard
+
+More Solana and web3 projects to improve my skills
+
+🎯 Goals
+
+Become a strong Solana developer
+
+Build clean and scalable systems
+
+Contribute to open source
+
+📫 Contact
+
+Twitter: x.com/olskiddo
+
+Telegram: t.me/deeaaddd
