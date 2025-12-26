@@ -1,41 +1,23 @@
-👋 Hi, I am Olskido
+# Olskido
+**Full-Stack Developer | Rust and Solana Engineer**
 
-I am a junior full stack web developer and a junior Rust and Solana developer. I love building fast, clean, and user focused applications. I learn in public and I ship fast.
+I specialize in building fast, scalable web applications and on-chain systems. I focus on clean code, performance optimization, and learning in public.
 
-🔧 What I Work With
+## Technical Skills
+* **Languages:** Rust, JavaScript (Transitioning to TypeScript)
+* **Frameworks:** React, Vite, Anchor
+* **Backend:** Node.js, pRPC Proxying, REST APIs
+* **Tools:** Git, GitHub, Vercel
 
-React, Vite, JavaScript
+## Featured Work
+### XanVision
+A 3D command center for the Xandeum network. It features a custom 2D-to-3D projection engine and real-time pNode health tracking.
 
-Rust, Solana, Anchor
+## Current Learning Path
+* **Advanced Rust:** Memory safety and on-chain performance.
+* **Smart Contract Security:** Auditing patterns and vulnerability prevention.
+* **Next.js:** Migrating my portfolio for improved SSR and performance.
 
-APIs, Crypto data tools
-
-Git, GitHub, Vercel
-
-🚀 What I am Learning
-
-Advanced Rust concepts
-
-Solana program development
-
-Smart contract patterns and security
-
-🌍 What I Am Building Now
-
-CoinView, a real time crypto tracking dashboard
-
-More Solana and web3 projects to improve my skills
-
-🎯 Goals
-
-Become a strong Solana developer
-
-Build clean and scalable systems
-
-Contribute to open source
-
-📫 Contact
-
-Twitter: x.com/olskiddo
-
-Telegram: t.me/deeaaddd
+## Contact
+* Twitter: [x.com/olskiddo](https://x.com/olskiddo)
+* Telegram: [t.me/deeaaddd](https://t.me/olskido)
